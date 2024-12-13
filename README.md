@@ -1,5 +1,7 @@
 # Far Away - Travel Packing List App
 
+[Live Demo](https://travel-list-app-three-rho.vercel.app/) - Try the app and!
+
 ## Description
 
 Far Away is a React-based app designed to help organize your trips by managing a list of items you need to pack. You can easily sort items by input, description, or packed status, and clear the list anytime for a fresh start.
